@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "First Post"
+date: 2019-09-19
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+I followed an online tutorial <a href="http://jmcglone.com/guides/github-pages/"> here</a>. I liked it because of how quickly I could make progress. On the other hand, it was so quick that it makes it hard to absorb the information. My plan is to be persistent and slowly gain a better understanding of html and be more comfortable with it and website design. 
+
+
